@@ -1,0 +1,33 @@
+{
+  "name": "cli-exchange-rate",
+  "version": "1.0.0",
+  "description": "This package provides you with realtime currency rates.",
+  "main": "exchangeRateApp.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^1.6.8",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "follow-redirects": "^1.15.6",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "proxy-from-env": "^1.1.0"
+  },
+  "scripts": {
+    "test": "exchangeRateApp help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VedangPaithankar/cli-exchange-rate.git"
+  },
+  "keywords": [
+    "EXR"
+  ],
+  "author": "Vedang Paithankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VedangPaithankar/cli-exchange-rate/issues"
+  },
+  "homepage": "https://github.com/VedangPaithankar/cli-exchange-rate#readme"
+}
